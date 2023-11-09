@@ -8,6 +8,11 @@ namespace Week3TaskSolution_Sq019
 {
     internal static class Q3
     {
+        /*
+            Write a C# LINQ program to print the number of states counted from the 36 states of Nigeria in groups of the 26 alphabets and in ascending order. 
+            (Requirement: Most use group-join here)
+         */
+
         public static List<string> states = new List<string>
         {
             "Abia","Adamawa","Akwa-Ibom","Anambra","Bauchi","Bayelsa",

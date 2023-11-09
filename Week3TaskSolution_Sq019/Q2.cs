@@ -8,6 +8,11 @@ namespace Week3TaskSolution_Sq019
 {
     internal static class Q2
     {
+        /*
+            Write a CSharp LINQ  program to generate a distinct list of an Inner Join between two data sets of inventories.
+            (Requirement: Must use join here)
+         */
+
         public static List<Item> itemlist = new List<Item>
         {
             new Item { ItemId = 1, ItemDes = "Bag" },
