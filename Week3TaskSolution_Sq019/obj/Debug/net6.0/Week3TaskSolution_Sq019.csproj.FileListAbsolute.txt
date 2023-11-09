@@ -1,0 +1,14 @@
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\Week3TaskSolution_Sq019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\Week3TaskSolution_Sq019.AssemblyInfoInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\Week3TaskSolution_Sq019.AssemblyInfo.cs
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\Week3TaskSolution_Sq019.csproj.CoreCompileInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\bin\Debug\net6.0\Week3TaskSolution_Sq019.exe
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\bin\Debug\net6.0\Week3TaskSolution_Sq019.deps.json
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\bin\Debug\net6.0\Week3TaskSolution_Sq019.runtimeconfig.json
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\bin\Debug\net6.0\Week3TaskSolution_Sq019.dll
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\bin\Debug\net6.0\Week3TaskSolution_Sq019.pdb
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\Week3TaskSolution_Sq019.dll
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\refint\Week3TaskSolution_Sq019.dll
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\Week3TaskSolution_Sq019.pdb
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\Week3TaskSolution_Sq019.genruntimeconfig.cache
+C:\Users\hp Envy\Desktop\Sq019\Week3TaskSolution_Sq019\Week3TaskSolution_Sq019\obj\Debug\net6.0\ref\Week3TaskSolution_Sq019.dll
